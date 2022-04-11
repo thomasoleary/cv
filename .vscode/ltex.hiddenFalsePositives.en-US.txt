@@ -1,0 +1,1 @@
+{"rule":"BACHELOR_ABBR","sentence":"^\\QComputing For Games BSc (Hons), Falmouth University September 2019 – July 2022 Predicted Grade: Second Class Honours Upper Devision\\E$"}
