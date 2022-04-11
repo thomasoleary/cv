@@ -591,6 +591,7 @@ INPUT A:\Applications\MikTeX\tex\latex\roboto\ts1roboto-lf.fd
 INPUT A:\Applications\MikTeX\tex\latex\roboto\ts1roboto-lf.fd
 INPUT A:\Applications\MikTeX\tex\latex\roboto\ts1roboto-lf.fd
 INPUT A:\Applications\MikTeX\fonts\tfm\google\roboto\Roboto-Regular-lf-ts1.tfm
+INPUT A:\Applications\MikTeX\fonts\tfm\google\roboto\Roboto-Italic-lf-t1.tfm
 INPUT A:\Applications\MikTeX\fonts\vf\google\roboto\Roboto-Bold-lf-t1.vf
 INPUT A:\Applications\MikTeX\fonts\tfm\google\roboto\Roboto-Bold-lf-t1--base.tfm
 INPUT C:\Users\Thomas\AppData\Local\MiKTeX\pdftex\config\pdftex.map
@@ -602,13 +603,17 @@ INPUT A:\Applications\MikTeX\fonts\vf\google\roboto\Roboto-Regular-lf-t1.vf
 INPUT A:\Applications\MikTeX\fonts\tfm\google\roboto\Roboto-Regular-lf-t1--base.tfm
 INPUT A:\Applications\MikTeX\fonts\vf\google\roboto\Roboto-Regular-lf-ts1.vf
 INPUT A:\Applications\MikTeX\fonts\tfm\google\roboto\Roboto-Regular-lf-ts1--base.tfm
+INPUT A:\Applications\MikTeX\fonts\vf\google\roboto\Roboto-Italic-lf-t1.vf
+INPUT A:\Applications\MikTeX\fonts\tfm\google\roboto\Roboto-Italic-lf-t1--base.tfm
 INPUT cv.aux
 INPUT .\cv.out
 INPUT .\cv.out
-INPUT A:\Applications\MikTeX\fonts\enc\dvips\roboto\rbto_ocbbsb.enc
 INPUT A:\Applications\MikTeX\fonts\enc\dvips\roboto\rbto_b5rac7.enc
+INPUT A:\Applications\MikTeX\fonts\enc\dvips\roboto\rbto_ocbbsb.enc
 INPUT A:\Applications\MikTeX\fonts\type1\google\roboto\Roboto-Bold.pfb
 INPUT A:\Applications\MikTeX\fonts\type1\google\roboto\Roboto-Bold.pfb
+INPUT A:\Applications\MikTeX\fonts\type1\google\roboto\Roboto-Italic.pfb
+INPUT A:\Applications\MikTeX\fonts\type1\google\roboto\Roboto-Italic.pfb
 INPUT A:\Applications\MikTeX\fonts\type1\google\roboto\Roboto-Regular.pfb
 INPUT A:\Applications\MikTeX\fonts\type1\google\roboto\Roboto-Regular.pfb
 INPUT A:\Applications\MikTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
