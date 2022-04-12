@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  12 APR 2022 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  12 APR 2022 12:38
 entering extended mode
 **b:/cv/cv.tex
 (b:/cv/cv.tex
@@ -323,21 +323,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 15.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 18.
+(Font)              `T1/Roboto-LF/bold/n' on input line 20.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 18.
-LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 64.
+(Font)              scaled to size 10.0pt on input line 20.
+LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 61.
 (A:\Applications\MikTeX\tex/latex/roboto\ts1roboto-lf.fd
 File: TS1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for TS1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/m/n' aliased to
-(Font)              `TS1/Roboto-LF/regular/n' on input line 64.
+(Font)              `TS1/Roboto-LF/regular/n' on input line 61.
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 64.
+(Font)              scaled to size 10.0pt on input line 61.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 100.
+(Font)              `T1/Roboto-LF/regular/it' on input line 91.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 100.
+(Font)              scaled to size 10.0pt on input line 91.
  [1
 
 {C:/Users/Thomas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (cv.aux)
@@ -353,9 +353,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,6n,80p,580b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 {A:/Applications/MikTeX/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{A:/Applications/MikTeX/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}<A:/Applications/MikTeX/fonts/type1/google/roboto/Roboto-Bold.pfb><A:/Applications/MikTeX/fonts/type1/google/roboto/Roboto-Italic.pfb><A:/Applications/MikTeX/fonts/type1/google/roboto/Roboto-Regular.pfb><A:/Applications/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 76852 bytes).
+Output written on cv.pdf (1 page, 75077 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
