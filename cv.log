@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  11 APR 2022 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  12 APR 2022 11:59
 entering extended mode
 **b:/cv/cv.tex
 (b:/cv/cv.tex
@@ -7,8 +7,8 @@ L3 programming layer <2021-08-27> (resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (A:\Applications\MikTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(A:\Applications\MikTeX\tex/latex/base\size11.clo
-File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+(A:\Applications\MikTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@section=\count183
@@ -186,7 +186,7 @@ File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
 (Font)              `T1/Roboto-LF/regular/n' on input line 112.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 112.
+(Font)              scaled to size 10.0pt on input line 112.
 ) (A:\Applications\MikTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (A:\Applications\MikTeX\tex/generic/iftex\ifvtex.sty
@@ -211,24 +211,24 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 ) (cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
  (A:\Applications\MikTeX\tex/latex/graphics\color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
  (A:\Applications\MikTeX\tex/latex/graphics-cfg\color.cfg
@@ -251,7 +251,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \makeMPintoPDFobject=\count277
 \everyMPtoPDFconversion=\toks22
 )))
-Package hyperref Info: Link coloring ON on input line 14.
+Package hyperref Info: Link coloring ON on input line 15.
  (A:\Applications\MikTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (A:\Applications\MikTeX\tex/latex/refcount\refcount.sty
@@ -261,9 +261,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count278
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
  (cv.out) (cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
@@ -290,12 +290,12 @@ LaTeX Info: Redefining \nameref on input line 14.
 * \topmargin=-80.36244pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -306,49 +306,38 @@ LaTeX Info: Redefining \nameref on input line 14.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 14.
+(Font)              `T1/Roboto-LF/regular/n' on input line 15.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 14.
+(Font)              scaled to size 17.28pt on input line 15.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 14.
+(Font)              `T1/Roboto-LF/bold/n' on input line 15.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
+(Font)              scaled to size 17.28pt on input line 15.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
+Overfull \hbox (30.0pt too wide) in paragraph at lines 15--15
 [] 
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 26.
+(Font)              `T1/Roboto-LF/bold/n' on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 26.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 45.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 45.
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--49
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 61.
+(Font)              scaled to size 10.0pt on input line 18.
+LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 64.
 (A:\Applications\MikTeX\tex/latex/roboto\ts1roboto-lf.fd
 File: TS1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for TS1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/m/n' aliased to
-(Font)              `TS1/Roboto-LF/regular/n' on input line 61.
+(Font)              `TS1/Roboto-LF/regular/n' on input line 64.
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 61.
+(Font)              scaled to size 10.0pt on input line 64.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 101.
+(Font)              `T1/Roboto-LF/regular/it' on input line 100.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 101.
+(Font)              scaled to size 10.0pt on input line 100.
  [1
 
 {C:/Users/Thomas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (cv.aux)
@@ -356,15 +345,15 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9557 strings out of 478927
- 144151 string characters out of 2862893
- 457085 words of memory out of 3000000
- 27291 multiletter control sequences out of 15000+600000
- 437542 words of font info for 49 fonts, out of 8000000 for 9000
+ 9538 strings out of 478927
+ 143878 string characters out of 2862893
+ 457053 words of memory out of 3000000
+ 27279 multiletter control sequences out of 15000+600000
+ 429653 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,80p,580b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,6n,80p,580b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 {A:/Applications/MikTeX/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{A:/Applications/MikTeX/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}<A:/Applications/MikTeX/fonts/type1/google/roboto/Roboto-Bold.pfb><A:/Applications/MikTeX/fonts/type1/google/roboto/Roboto-Italic.pfb><A:/Applications/MikTeX/fonts/type1/google/roboto/Roboto-Regular.pfb><A:/Applications/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 76848 bytes).
+Output written on cv.pdf (1 page, 76852 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
